@@ -1,0 +1,10 @@
+name: WorldLimitItem
+description: WorldLimitItem
+author: Color_yr
+main: Color_yr.WorldLimitItem.WorldLimitItem
+version: 1.0.0
+api-version: 1.13
+commands:
+    worldlimit:
+        usage: /worldlimit help
+        permission: WorldLimitItem.admin
